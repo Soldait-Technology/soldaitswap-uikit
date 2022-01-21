@@ -3,6 +3,304 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.63.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.63.0...@pancakeswap/uikit@0.63.1) (2022-01-16)
+
+
+### Bug Fixes
+
+* **uikit:** Types styled system missing with devdep ([#384](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/384)) ([078f101](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/078f101b67cdc09b5f62e4a4fc45655eaf15733a))
+
+
+
+
+
+# [0.63.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.62.0...@pancakeswap/uikit@0.63.0) (2022-01-16)
+
+
+### Bug Fixes
+
+* **uikit:** Chrome scrollbar layoutshift ([#377](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/377)) ([9c68d02](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/9c68d02c3b48388f8eed38f710b73120bb9aaa99))
+* **uikit:** IOS safari BottomNav position ([#378](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/378)) ([154d6f5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/154d6f5e43fa0f00cff81ff69dca95a366d36067))
+
+
+### Features
+
+* **uikit:** footer-telegram icon's tooltip update ([#376](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/376)) ([68ac504](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/68ac50482dd991427bf064744c4ce985261f6281))
+* **uikit:** Support SSR ([#370](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/370)) ([7edd367](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/7edd367c45210e52bdc1523dbeff940c56e0719a))
+* **uikit:** Update Logo Icon ([#350](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/350)) ([c5fde4a](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c5fde4ab695e5a16461cc21634eb4e8be11cc7c9))
+
+
+
+
+
+# [0.62.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.61.0...@pancakeswap/uikit@0.62.0) (2021-12-30)
+
+
+### Features
+
+* List DPT ([#363](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/363)) ([c2a5681](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c2a56818f977891ad80af9d3eff83334c0d19cce))
+
+
+### Performance Improvements
+
+* **uikit:** Remove backdrop filter ([#367](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/367)) ([4d66e7e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/4d66e7ed433c534bb403e4856ad0617834217cbd))
+
+
+
+
+
+# [0.61.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.60.0...@pancakeswap/uikit@0.61.0) (2021-12-17)
+
+
+### Bug Fixes
+
+* (bunnyslider): Remove visible box shadow on slider thumb in mobile safari ([#360](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/360)) ([c74da59](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c74da59e3a0c4be9112b3d2d9cadcea4a892956a))
+
+
+### Features
+
+* **uikit:** Add MessageText for Message ([#361](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/361)) ([ccee124](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/ccee12441aa191610fec27bccfd27a78e8ea52c1))
+* **uikit:** Add SmartContract and Swap icon ([#359](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/359)) ([8cd5a68](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/8cd5a68245cf51f93206b47e7761bbe92ef29c74))
+
+
+
+
+
+# [0.60.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.59.0...@pancakeswap/uikit@0.60.0) (2021-12-09)
+
+
+### Bug Fixes
+
+* (bottomdrawer): Add tokenpocket padding to bottom drawer ([#354](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/354)) ([68fffca](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/68fffcabea4e3fab1b9e8dbb448b289a43ded3d1))
+
+
+### Features
+
+* **uikit:** Add ProgressBar for compose use ([#356](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/356)) ([0ba9872](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/0ba9872b32405e00c2e9612ba3d77fb38563208e))
+
+
+
+
+
+# [0.59.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.58.1...@pancakeswap/uikit@0.59.0) (2021-12-01)
+
+
+### Bug Fixes
+
+* **uikit:** Snapshot ([#349](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/349)) ([a669484](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/a66948484dcccbdc5980fc5a898c2dd310c7a9a0))
+
+
+### Features
+
+* **uikit:** Improve BottomDrawer and Overlay ([#345](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/345)) ([9fe7f9d](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/9fe7f9d9cbd0dafd738090d8d0c86385cb04464c))
+
+
+
+
+
+## [0.58.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.58.0...@pancakeswap/uikit@0.58.1) (2021-11-29)
+
+
+### Bug Fixes
+
+* **uikit:** BottomNav clickoutside ([#344](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/344)) ([d8ba475](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/d8ba475b88c03a1ba64685818d77c55e3911f3c6))
+
+
+
+
+
+# [0.58.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.57.0...@pancakeswap/uikit@0.58.0) (2021-11-24)
+
+
+### Features
+
+* **uikit:** Add discord icon and link ([#341](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/341)) ([59a9394](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/59a9394f80666c83ae2b35829ebe6e8f84399e95))
+
+
+
+
+
+# [0.57.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.3...@pancakeswap/uikit@0.57.0) (2021-11-24)
+
+
+### Bug Fixes
+
+* **uikit:** UserMenu position incorrect ([#339](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/339)) ([924e1ca](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/924e1cad126ca919da437b45fa37a16574efe534))
+
+
+### Features
+
+* BottomDrawer ([#340](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/340)) ([7a7071e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/7a7071e633007638d424ddb16d6d429cde75f998))
+
+
+
+
+
+## [0.56.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.1...@pancakeswap/uikit@0.56.3) (2021-11-22)
+
+
+### Bug Fixes
+
+* **uikit:** Menu position incorrect and link no response on touch device ([#336](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/336)) ([21853cd](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/21853cdcdf98de66e19579501a003538b8335f78))
+* **uikit:** Mobile overlay regression ([#332](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/332)) ([a8be97e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/a8be97ec6dc6d88f3fb7561ce248103d6a8ac733))
+* **uikit:** Show active border on SubMenu when hover ([#333](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/333)) ([c2b4d51](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c2b4d515a4a904563d497c59953d5d9d848567a8))
+
+
+
+
+
+## [0.56.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.56.1...@pancakeswap/uikit@0.56.2) (2021-11-22)
+
+
+### Bug Fixes
+
+* **uikit:** Menu position incorrect and link no response on touch device ([#336](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/336)) ([21853cd](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/21853cdcdf98de66e19579501a003538b8335f78))
+* **uikit:** Mobile overlay regression ([#332](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/332)) ([a8be97e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/a8be97ec6dc6d88f3fb7561ce248103d6a8ac733))
+* **uikit:** Show active border on SubMenu when hover ([#333](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/333)) ([c2b4d51](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c2b4d515a4a904563d497c59953d5d9d848567a8))
+
+
+
+
+
+## [0.56.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.57.0...@pancakeswap/uikit@0.56.1) (2021-11-16)
+
+
+### Reverts
+
+* Revert "chore(release): Publish" ([3ba958f](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/3ba958f79d3dd8ab0fbdf55ee8addc328b2f6a6b))
+
+
+
+
+
+# [0.56.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.55.0...@pancakeswap/uikit@0.56.0) (2021-10-28)
+
+
+### Bug Fixes
+
+* **uikit:** Render menu without link as text in Footer ([#304](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/304)) ([c975470](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c975470b0f561c4f95bdfac7bb119c7d6365e9af))
+* (menu): Main menu items on tablets causes navigation instead of drop down ([#301](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/301)) ([895ef24](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/895ef24fd054b28bff1eddd1a6df07f08955d512))
+* (menu): Menu item keys might be the same if label is the same ([#294](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/294)) ([871da8b](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/871da8bf43d2808b3f59a8bf578df20c01d2d35f))
+* Token pocket mobile navigation ([#297](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/297)) ([6b80d7e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/6b80d7e81060ada8af69ece1e61dc275a96a5cfc))
+
+
+### Features
+
+* **icons:** Add expand and shrink icons ([#299](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/299)) ([4d4ecd3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/4d4ecd303c603a6388f10ea9419d27561b26901c))
+* **menu:** Add mobile sub menu entry with icon ([#307](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/307)) ([817a6bd](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/817a6bdb463e931fad3652648e9d120b2957542c))
+
+
+
+
+
+# [0.55.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.5...@pancakeswap/uikit@0.55.0) (2021-10-04)
+
+
+### Features
+
+* **bottom nav:** Fix ios bottom nav issue on specifics browsers ([#293](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/293)) ([8beb5cc](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/8beb5ccd6581b4804f7f6bf1edae16d3278206cb))
+
+
+
+
+
+## [0.54.5](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.4...@pancakeswap/uikit@0.54.5) (2021-09-28)
+
+
+### Bug Fixes
+
+* **Menu:** Hide menu bar only when scrolled enough ([#292](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/292)) ([8cbab63](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/8cbab63addfd77d2ce5823d63571b8ec19aad042))
+* DarkMode flag and Stepper issue ([#291](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/291)) ([7c248b7](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/7c248b7031b8a0c6d8173e5eb64dac76df235226))
+
+
+
+
+
+## [0.54.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.3...@pancakeswap/uikit@0.54.4) (2021-09-20)
+
+
+### Bug Fixes
+
+* **menu:** Submenu types ([#288](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/288)) ([c16e0e3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c16e0e323e2309471728e158e39511174ab44931))
+
+
+
+
+
+## [0.54.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.2...@pancakeswap/uikit@0.54.3) (2021-09-17)
+
+
+### Bug Fixes
+
+* **uikit:** DropdownMenu ([#280](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/280)) ([f8f8b56](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/f8f8b56c42f53d66186e16bc8150de04c8c49d08))
+
+
+
+
+
+## [0.54.2](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.1...@pancakeswap/uikit@0.54.2) (2021-09-17)
+
+
+### Bug Fixes
+
+* User menu item on click action not triggered intermittently ([#281](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/281)) ([fc51464](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/fc5146454b6a9841101fc42ad1f0939b1de176c8))
+* **menu:** Apply margin to BodyWrapper ([#284](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/284)) ([651c856](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/651c856f4e5796620129ae0f94efee83f2e8db70))
+* **menu:** Increase timeout on touch devices ([#283](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/283)) ([2262017](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/2262017150a239c9632cf55f5758d6d381af7da5))
+
+
+
+
+
+## [0.54.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.54.0...@pancakeswap/uikit@0.54.1) (2021-09-16)
+
+
+### Bug Fixes
+
+* **footer links:** Add rel attribute ([#278](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/278)) ([c35e027](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c35e027d2cf22133b238a4d75039c2dedb6b498e))
+* **uikit:** BottomNav ([#279](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/279)) ([5d75877](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/5d7587739fa09d1745467ffe6807d7ade1dfc42d))
+
+
+
+
+
+# [0.54.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.53.0...@pancakeswap/uikit@0.54.0) (2021-09-14)
+
+
+### Bug Fixes
+
+* **missing export:** Export SubMenuItems ([#277](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/277)) ([da5ecb1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/da5ecb1b893d0654ad450c3a0dcac8aebdc0d8ce))
+
+
+### Features
+
+* **timeline:** Add timeline component ([#276](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/276)) ([a4346dd](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/a4346ddce39ed3d28e83ff05492194d53e7a321f))
+
+
+
+
+
+# [0.53.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.52.0...@pancakeswap/uikit@0.53.0) (2021-09-14)
+
+
+### Features
+
+* **menu rework:** Menu rework adjustments ([#275](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/275)) ([894a2d4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/894a2d4f71a2d83493dc4dbe6f5706ef21eaaa44))
+
+
+
+
+
+# [0.52.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.51.0...@pancakeswap/uikit@0.52.0) (2021-09-13)
+
+
+### Features
+
+* **rework navigation:** Rework top and bottom navigation ([#263](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/263)) ([67b4e53](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/67b4e53d12d442cf596a969208b45097a0066534)), closes [#261](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/261) [#264](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/264) [#268](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/268)
+
+
+
+
+
 # [0.51.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.50.3...@pancakeswap/uikit@0.51.0) (2021-09-09)
 
 
